@@ -9,10 +9,10 @@ Soy una desarrolladora apasionada por los desafíos y la curiosidad de entender 
 - **Desarrolladora Full Stack**: Python y JavaScript
 - **Frontend**: Vue.js
 - **Certificaciones**:
-  - ![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/4/4a/Amazon_Web_Services_Logo.svg) [AWS Cloud Practitioner](https://aws.amazon.com/certification/)
-  - ![Azure Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Microsoft_Azure_Logo.svg) [DP-900 Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-900/)
-  - ![Cambridge Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Cambridge_University_Press_logo.svg) Cambridge English B2
-  - ![German Logo](https://upload.wikimedia.org/wikipedia/commons/3/36/Deutscher_Akademischer_Austauschdienst_logo.svg) A1 Alemán (Deutscher Akademischer Austausch Dienst)
+  - ![AWS Logo](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png) [AWS Cloud Practitioner](https://aws.amazon.com/certification/)
+  - ![Azure Logo](https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png) [DP-900 Azure](https://learn.microsoft.com/en-us/certifications/exams/dp-900/)
+- **Cambridge English B2**
+- **A1 Alemán (Deutscher Akademischer Austausch Dienst)**
 - **Huawei Seeds for the Future 2022**: Incluye 5G, IA, computación en la nube y mentorías con expertos de la industria
 
 ### Experiencia
@@ -22,8 +22,8 @@ Soy una desarrolladora apasionada por los desafíos y la curiosidad de entender 
   - Bases de Datos No Relacionales (MongoDB)
   - Sistemas Operativos de Redes
 - **Cursos de Cisco**:
-  - ![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Cisco_logo_blue.svg) [CCNAv7: *Introduction to Networks*](https://www.netacad.com/courses/networking/ccna)
-  - ![Cisco Logo](https://upload.wikimedia.org/wikipedia/commons/0/05/Cisco_logo_blue.svg) *CyberOps Associate*
+  - ![Cisco Logo](https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/d37cd1b7-ce71-45ab-b33d-da7f8ce2a5e2.png) [CCNAv7: *Introduction to Networks*](https://www.netacad.com/courses/networking/ccna)
+  - ![Cisco Logo](https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png) *CyberOps Associate*
 
 ### ¿Por qué contactarme?
 Me gusta enfrentar desafíos y soy curiosa por descubrir cómo funcionan las cosas. Mi enfoque en la colaboración y el trabajo en equipo permite desarrollar soluciones más inclusivas y efectivas. Si buscas una persona motivada, con capacidad de adaptación y con una visión colaborativa, estoy lista para aportar mi experiencia y entusiasmo.
