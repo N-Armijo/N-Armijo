@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&width=600&lines=Hello!+Welcome;My+name+is+Norma+Armijo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=EE27F7CD&background=72737671&center=true&vCenter=true&width=1024&height=70&lines=Hello!+Welcome;My+name+is+Norma+Armijo)](https://git.io/typing-svg)
 
 ## Desarrolladora Full Stack
 
