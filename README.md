@@ -1,4 +1,4 @@
-# Norma Pamela Armijo Fuentes
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&width=600&lines=Hello!+Welcome;My+name+is+Norma+Armijo)](https://git.io/typing-svg)
 
 ## Desarrolladora Full Stack
 
